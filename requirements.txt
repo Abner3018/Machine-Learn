@@ -1,1 +1,2 @@
-
+# Se deden instalar estas librerias: pandas, pyarrow
+pip install pandas pyarrow
